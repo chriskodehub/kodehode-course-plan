@@ -9,7 +9,7 @@ The project was made as part of learning programming at the Kodehode course.
 
 An application that optimizes the management of teaching planning and accelerates the creation of a plan.
 
-### Cel projektu
+### Purpose of the project
 
 1. The project aims to create an application that will streamline the process of planning tasks during the Kodehode course. The application is also to allow for quick changes to the schedule, especially in emergency cases, e.g. teacher's illness. In the application, it will be possible to plan teachers' leaves and easily appoint replacements.
 2. The additional goal is the practical use of the knowledge acquired during the course and learning tools for project management and the way of working in a programming team.
@@ -28,19 +28,20 @@ The project aims to help the participants to familiarize themselves with the pro
 
 ### Tools
 
-1. GitHub and its additional functionality:
+1. `GitHub` and its additional functionality:
    - Issues [instruction]
    - Projects [instruction]
    - Pull requests [instruction]
    - Fork [instruction]
-2. Git on the local computer, and in particular:
+2. `Git` on the local computer, and in particular:
    - Clone [instruction]
    - Branch [instruction]
    - Commit [instruction]
    - Pull [instruction]
    - Push [instruction]
-3. Google Jamboard for brainstorming [[link]](https://jamboard.google.com/) [[instruction]](https://support.google.com/jamboard/?hl=en#topic=7383643)
-4. Google Drawings for diagrams [instruction]
+3. `Google Jamboard` for brainstorming [[link]](https://jamboard.google.com/) [[instruction]](https://support.google.com/jamboard/?hl=en#topic=7383643)
+4. `Google Drawings` for diagrams [instruction]
+5. `Figma` for design [instruction]
 
 ## Help in creating the project
 
