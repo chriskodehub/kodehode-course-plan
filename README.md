@@ -1,3 +1,12 @@
+<!-- markdownlint-configure-file {
+  "MD013": {
+    "code_blocks": false,
+    "tables": false
+  },
+  "MD033": false,
+  "MD041": false
+} -->
+
 <img src="docs/img/readme/banner.svg" alt="banner">
 
 <h1 style="text-align: center">Kodehode Course Plan</h1>
@@ -16,11 +25,8 @@
       Help wanted
     </a>
   </h3>
+   <p>Application supporting the planning of teaching on the Kodehode course</p>
 </div>
-<div style="text-align: center">
-   Application supporting the planning of teaching on the Kodehode course
-</div>
-<br>
 <br>
 <br>
 
