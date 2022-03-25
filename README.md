@@ -12,7 +12,7 @@
       Kodehode
     </a>
    <span> | </span>
-    <a href="https://github.com/chriskodehub/kodehode-course-plan/labels/help%20wanted">
+    <a href="https://github.com/chriskodehub/kodehode-course-plan/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22">
       Help wanted
     </a>
   </h3>
