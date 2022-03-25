@@ -1,22 +1,33 @@
 <div align="center">
 <img src="docs/img/readme/banner.svg" alt="banner">
 <h1>Kodehode Course Plan</h1>
-  <h3>
-    <a href="https://chriskodehub.github.io/kodehode-course-plan/">
-      Live
-    </a>
-    <span> | </span>
-    <a href="https://jobloop.no/kodehode-modellen">
-      Kodehode
-    </a>
-   <span> | </span>
-    <a href="https://github.com/chriskodehub/kodehode-course-plan/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22">
-      Help wanted
-    </a>
-  </h3>
-   <p>Application supporting the planning of teaching on the Kodehode course</p>
+    <h3>
+        <a href="https://chriskodehub.github.io/kodehode-course-plan/">
+            Live
+        </a>
+        <span> | </span>
+        <a href="https://jobloop.no/kodehode-modellen">
+            Kodehode
+        </a>
+        <span> | </span>
+        <a href="https://github.com/chriskodehub/kodehode-course-plan/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22">
+            Help wanted
+        </a>
+    </h3>
+    <p>Application supporting the planning of teaching on the Kodehode course</p>
+    <br>
+    <p>Technologies and tools:</p>
+<p>
+    <img src="docs/img/readme/html5.svg" width="40" height="40" alt="html"/>
+    <img src="docs/img/readme/css3.svg" width="40" height="40" alt="css"/>
+    <img src="docs/img/readme/js.svg" width="40" height="40" alt="javascript"/>
+    <img src="docs/img/readme/vsc.svg" width="40" height="40" alt="vsc"/>
+    <img src="docs/img/readme/git.svg" width="40" height="40" alt="git"/>
+    <img src="docs/img/readme/github.svg" width="40" height="40" alt="github"/>
+    <img src="docs/img/readme/figma.svg" width="40" height="40" alt="figma"/>
+    <img src="docs/img/readme/md.svg" width="40" height="40" alt="mark down"/>
+</p>
 </div>
-<br>
 <br>
 
 ## Project assumptions
